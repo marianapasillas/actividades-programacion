@@ -3,40 +3,44 @@ package com.mycompany.proyectocalculadora;
 
 public class Calculadora {
     
-    private int Num1;
-    private int Num2;
+    private double Num1;
+    private double Num2;
     
     
-    public Calculadora (){
+    
+    public Calculadora (String num1, String num2){
         
     }
     
-    public Calculadora (int Num1, int Num2){
-        this.Num1 = Num1;
-        this.Num2 = Num2;
+    public Calculadora (double Num1, double Num2){
+        this.Num1 = Double.parseDouble ("dame el primer numero: ");
+        this.Num2 = Double.parseDouble ("dame el segundo numero: ");
     }
     
-    public int sumar (){
-        int suma = this.Num1 + this.Num2;
+    public double sumar (){
+        double suma = this.Num1 + this.Num2;
         return suma;
     }
     
-    public int restar (){
-        int resta = this.Num1 - this.Num2;
+    public double restar (){
+        double resta = this.Num1 - this.Num2;
         return resta;
     }
     
-    public int multiplicar (){
-        int multiplicacion = this.Num1 * this.Num2;
+    public double multiplicar (){
+        double multiplicacion = this.Num1 * this.Num2;
         return multiplicacion;
     }
     
-    public double dividir (){
-        double division = (double)this.Num1/(double)this.Num2;
-        return division;
+     public double dividir() {
+        if (this.Num2 == 0) {
+            System.out.println("Error: No se puede dividir entre cero.");
+            return 0;
+        }
+        return this.Num1 / this.Num2;
     }
     
-    public int getNum1(){
+    public double getNum1(){
         return Num1;
     }
     
@@ -44,13 +48,14 @@ public class Calculadora {
         this.Num1 = Num1;
     }
     
-    public int getNum2 (){
+    public double getNum2 (){
         return Num2;
     }
     
     public void setNum2 (int Num2){
         this.Num2 = Num2;
     }
+   
 }
 
 
