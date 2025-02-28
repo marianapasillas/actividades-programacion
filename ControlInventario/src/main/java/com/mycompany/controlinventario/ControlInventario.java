@@ -1,4 +1,4 @@
-
+//codigo hecho con ayuda de muchos tutoriales de youtube y mi papá :D
 package com.mycompany.controlinventario;
 
 import javax.swing.*;
@@ -42,19 +42,19 @@ public class ControlInventario {
         JPanel panelCampos = new JPanel(new GridLayout(4, 2, 5, 5));
         
         
-        panelCampos.add(new JLabel("Código:"));
+        panelCampos.add(new JLabel("Dime el Código:"));
         txtCodigo = new JTextField();
         panelCampos.add(txtCodigo);
         
-        panelCampos.add(new JLabel("Nombre:"));
+        panelCampos.add(new JLabel("Dame el Nombre:"));
         txtNombre = new JTextField();
         panelCampos.add(txtNombre);
         
-        panelCampos.add(new JLabel("Precio:"));
+        panelCampos.add(new JLabel("Cual es el Precio:"));
         txtPrecio = new JTextField();
         panelCampos.add(txtPrecio);
         
-        panelCampos.add(new JLabel("Cantidad:"));
+        panelCampos.add(new JLabel("Dame la Cantidad:"));
         txtCantidad = new JTextField();
         panelCampos.add(txtCantidad);
         
@@ -94,19 +94,19 @@ public class ControlInventario {
             
             
             if (codigo.isEmpty() || nombre.isEmpty()) {
-                mostrarError("Los campos código y nombre son obligatorios");
+                mostrarError("Los campos código y nombre son obligatorios, dah");
                 return;
             }
             
             if (precio <= 0 || cantidad <= 0) {
-                mostrarError("Precio y cantidad deben ser mayores a cero");
+                mostrarError("Precio y cantidad deben ser mayores a cero, obvio");
                 return;
             }
             
             
             for (int i = 0; i < indiceProducto; i++) {
                 if (productos[i].getCodigo().equals(codigo)) {
-                    mostrarError("El código de producto ya existe");
+                    mostrarError("El código de producto ya existe, checate");
                     return;
                 }
             }
@@ -126,11 +126,11 @@ public class ControlInventario {
                 actualizarTabla();
                 
                 JOptionPane.showMessageDialog(ventana, 
-                    "Producto agregado exitosamente", 
-                    "Éxito", 
+                    "Producto agregado exitosamente,yei", 
+                    "Éxito...porfin", 
                     JOptionPane.INFORMATION_MESSAGE);
             } else {
-                mostrarError("No hay espacio para más productos");
+                mostrarError("No hay espacio para más productos...chale");
             }
         } catch (NumberFormatException e) {
             mostrarError("Precio y cantidad deben ser números válidos");
@@ -155,7 +155,7 @@ public class ControlInventario {
     private void mostrarError(String mensaje) {
         JOptionPane.showMessageDialog(ventana, 
             mensaje, 
-            "Error", 
+            "Error 404 jsjs", 
             JOptionPane.ERROR_MESSAGE);
     }
 
@@ -164,6 +164,7 @@ public class ControlInventario {
     }
 }
 
+//si ve esta anotacion quiero que sepa que al inventario le falta rosita TvT
 class Producto {
     private final String codigo;
     private final String nombre;
