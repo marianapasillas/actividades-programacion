@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\GitHub\ProgramInterface.cs\bin\Debug\ProgramInterface.cs.exe.config
+C:\Users\USUARIO\Documents\GitHub\ProgramInterface.cs\bin\Debug\ProgramInterface.cs.exe
+C:\Users\USUARIO\Documents\GitHub\ProgramInterface.cs\bin\Debug\ProgramInterface.cs.pdb
+C:\Users\USUARIO\Documents\GitHub\ProgramInterface.cs\obj\Debug\ProgramInterface.cs.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\ProgramInterface.cs\obj\Debug\ProgramInterface.cs.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\ProgramInterface.cs\obj\Debug\ProgramInterface.cs.exe
+C:\Users\USUARIO\Documents\GitHub\ProgramInterface.cs\obj\Debug\ProgramInterface.cs.pdb
