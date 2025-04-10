@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\GitHub\programa.cs\bin\Debug\programa.cs.exe.config
+C:\Users\USUARIO\Documents\GitHub\programa.cs\bin\Debug\programa.cs.exe
+C:\Users\USUARIO\Documents\GitHub\programa.cs\bin\Debug\programa.cs.pdb
+C:\Users\USUARIO\Documents\GitHub\programa.cs\obj\Debug\programa.cs.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\programa.cs\obj\Debug\programa.cs.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\programa.cs\obj\Debug\programa.cs.exe
+C:\Users\USUARIO\Documents\GitHub\programa.cs\obj\Debug\programa.cs.pdb
