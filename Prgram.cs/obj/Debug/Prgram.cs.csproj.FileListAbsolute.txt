@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\GitHub\Prgram.cs\bin\Debug\Prgram.cs.exe.config
+C:\Users\USUARIO\Documents\GitHub\Prgram.cs\bin\Debug\Prgram.cs.exe
+C:\Users\USUARIO\Documents\GitHub\Prgram.cs\bin\Debug\Prgram.cs.pdb
+C:\Users\USUARIO\Documents\GitHub\Prgram.cs\obj\Debug\Prgram.cs.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\Prgram.cs\obj\Debug\Prgram.cs.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\Prgram.cs\obj\Debug\Prgram.cs.exe
+C:\Users\USUARIO\Documents\GitHub\Prgram.cs\obj\Debug\Prgram.cs.pdb
