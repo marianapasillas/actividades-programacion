@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\bin\Debug\net8.0\RepasoEnCSharp.exe
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\bin\Debug\net8.0\RepasoEnCSharp.deps.json
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\bin\Debug\net8.0\RepasoEnCSharp.runtimeconfig.json
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\bin\Debug\net8.0\RepasoEnCSharp.dll
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\bin\Debug\net8.0\RepasoEnCSharp.pdb
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\RepasoEnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\RepasoEnCSharp.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\RepasoEnCSharp.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\RepasoEnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\RepasoEnCSharp.dll
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\refint\RepasoEnCSharp.dll
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\RepasoEnCSharp.pdb
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\RepasoEnCSharp.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\GitHub\RepasoEnCSharp\obj\Debug\net8.0\ref\RepasoEnCSharp.dll
